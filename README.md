@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Gsap**
 
-- 👯 Variants.ai [\https://github.com/nSatyendra567/Variants.ai](\https://github.com/nSatyendra567/Variants.ai)
+- 👯 Variants.ai [https://github.com/nSatyendra567/Variants.ai](https://github.com/nSatyendra567/Variants.ai)
 
 - 💬 Ask me about **React.js**
 
